@@ -1,0 +1,17 @@
+{
+  "name": "opencc-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Wong <compulim@hotmail.com> (http://compulim.info/)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.0.1",
+    "loader-utils": "^1.1.0",
+    "mz": "^2.6.0",
+    "node-opencc": "^2.0.1"
+  }
+}
