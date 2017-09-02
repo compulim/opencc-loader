@@ -1,6 +1,8 @@
 opencc-loader
 =============
 
+[![npm version](https://badge.fury.io/js/opencc-loader.svg)](https://badge.fury.io/js/opencc-loader)
+
 Webpack loader for converting Traditional Chinese into Simplified Chinese (and vice versa) using [Open Chinese Convert](https://github.com/byvoid/opencc) and [`node-opencc`](https://github.com/compulim/node-opencc) package.
 
 Usage
